@@ -1,6 +1,7 @@
 """
 This test will initialize the display using displayio
-and draw a solid red background
+and display weather information on a teal background
+with "WEATHER" in red
 
 WIRING
 ------
