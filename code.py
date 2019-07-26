@@ -1,5 +1,5 @@
 """
-This test will initialize the display using displayio
+This test will initialize the Adafruit 128x128 display using displayio
 and display weather information on a teal background
 with "WEATHER" in red
 
